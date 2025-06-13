@@ -1,0 +1,5 @@
+C:/Users/Natasha/Desktop/project/StudentManagementSystem/build/CMakeFiles/sms.dir
+C:/Users/Natasha/Desktop/project/StudentManagementSystem/build/CMakeFiles/tests.dir
+C:/Users/Natasha/Desktop/project/StudentManagementSystem/build/CMakeFiles/test.dir
+C:/Users/Natasha/Desktop/project/StudentManagementSystem/build/CMakeFiles/edit_cache.dir
+C:/Users/Natasha/Desktop/project/StudentManagementSystem/build/CMakeFiles/rebuild_cache.dir

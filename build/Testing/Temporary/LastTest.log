@@ -1,0 +1,19 @@
+Start testing: Jun 14 00:08 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/1 Testing: run_tests
+1/1 Test: run_tests
+Command: "C:/Users/Natasha/Desktop/project/StudentManagementSystem/build/tests.exe"
+Directory: C:/Users/Natasha/Desktop/project/StudentManagementSystem/build
+"run_tests" start time: Jun 14 00:08 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[ALL TESTS PASSED]
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"run_tests" end time: Jun 14 00:08 RTZ 2 (çèìà)
+"run_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 14 00:08 RTZ 2 (çèìà)
